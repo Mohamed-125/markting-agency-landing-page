@@ -1,0 +1,22 @@
+.pricing__section {
+  min-height: 120vh;
+  background-color: white;
+}
+
+.pricing__contener {
+  flex-direction: column;
+  gap: 8rem;
+}
+
+.pricing__pricing {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1060px) {
+  .pricing__section {
+    padding-bottom: 6rem;
+    background-color: white;
+  }
+}
