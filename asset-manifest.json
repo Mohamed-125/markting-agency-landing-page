@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markting-agency-landing-page/static/css/main.7eaa9963.css",
+    "main.js": "/markting-agency-landing-page/static/js/main.30f8211e.js",
+    "index.html": "/markting-agency-landing-page/index.html",
+    "main.7eaa9963.css.map": "/markting-agency-landing-page/static/css/main.7eaa9963.css.map",
+    "main.30f8211e.js.map": "/markting-agency-landing-page/static/js/main.30f8211e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eaa9963.css",
+    "static/js/main.30f8211e.js"
+  ]
+}
