@@ -121,17 +121,6 @@ const Footer = () => {
             </>
           )}
         </div>
-        <div className="footer__last_div flex__center">
-          <p style={{ color: "white" }}>
-            <FaMagento style={{ marginRight: ".5rem", color: "white" }} />{" "}
-            ULETRA
-          </p>
-
-          <p>ULTRA © 2022</p>
-          <div className="footer__icons">
-            <BsFacebook /> <BsInstagram /> <BsYoutube /> <BsTwitter />
-          </div>
-        </div>
       </div>
     </section>
   );
