@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/markting-agency-landing-page/static/css/main.7eaa9963.css",
-    "main.js": "/markting-agency-landing-page/static/js/main.30f8211e.js",
+    "main.css": "/markting-agency-landing-page/static/css/main.fd6347f6.css",
+    "main.js": "/markting-agency-landing-page/static/js/main.7660efee.js",
     "index.html": "/markting-agency-landing-page/index.html",
-    "main.7eaa9963.css.map": "/markting-agency-landing-page/static/css/main.7eaa9963.css.map",
-    "main.30f8211e.js.map": "/markting-agency-landing-page/static/js/main.30f8211e.js.map"
+    "main.fd6347f6.css.map": "/markting-agency-landing-page/static/css/main.fd6347f6.css.map",
+    "main.7660efee.js.map": "/markting-agency-landing-page/static/js/main.7660efee.js.map"
   },
   "entrypoints": [
-    "static/css/main.7eaa9963.css",
-    "static/js/main.30f8211e.js"
+    "static/css/main.fd6347f6.css",
+    "static/js/main.7660efee.js"
   ]
 }
